@@ -1,0 +1,11 @@
+bittensor
+requests
+substrate-interface
+torch
+torchvision
+datasets
+transformers
+mlflow
+python-dotenv
+psutil
+pynvml
